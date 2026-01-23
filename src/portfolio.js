@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  title: "Hi all, Ahmed Abiodun Ibrahim",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Passionate DevOps Engineer with hands-on experience in CI/CD pipelines, Docker, Kubernetes, cloud deployments (AWS/GCP/Azure), automation, and monitoring. Skilled in streamlining software delivery, improving infrastructure reliability, and enabling scalable, efficient, and secure systems"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -65,23 +65,23 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "Kubernetes",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
+      skillName: "ci/cd",
       fontAwesomeClassname: "fab fa-sass"
     },
     {
-      skillName: "JavaScript",
+      skillName: "Terraform",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "ansible",
       fontAwesomeClassname: "fab fa-react"
     },
     {
